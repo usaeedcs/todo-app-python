@@ -45,4 +45,8 @@ To set up the Todo application locally, follow these steps:
 ## Usage
 Once the server is running, you can access the Todo application in your web browser at `http://localhost:8000/`. From there, you can create, update, and delete tasks, as well as mark them as completed.
 
+<img width="1126" alt="to-do app" src="https://github.com/usaeedcs/todo-app-python/assets/85361194/f18b67cc-8330-4301-887e-8efe1be30179">
+
+<img width="1124" alt="tasks" src="https://github.com/usaeedcs/todo-app-python/assets/85361194/2498860f-ef02-4393-98ca-6a888b466599">
+
 
